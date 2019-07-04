@@ -6,7 +6,7 @@ end
 
 def my_hash
  {
-   "single rose" => 3.20
+   "single_stem_tulip" => 3.20
  }
 end
 
